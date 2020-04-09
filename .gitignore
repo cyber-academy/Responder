@@ -1,5 +1,4 @@
-# Responder logs
+# Responder logs:
 *.db
 *.txt
 *.log
-
